@@ -10,3 +10,5 @@ Created: 2026-09-14. These are initial desk-research notes, not a validated prod
 6. [Naming exploration](06-naming-exploration.md)
 
 Keep facts linked to sources, distinguish proposals from decisions, and record experiments with their actual results. Add future notes as `NN-topic.md`; use `YYYY-MM-DD-topic.md` for dated research or interviews. Do not put credentials, private customer data, or confidential incidents in this public repository.
+
+Current project name: **Riff**. Continue with [research in docs](../docs/README.md).

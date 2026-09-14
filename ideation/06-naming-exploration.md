@@ -1,6 +1,6 @@
 # Naming exploration — round 1
 
-Date: 2026-09-14. Status: candidates for discussion; no replacement name selected.
+Date: 2026-09-14. Historical shortlist. **Riff selected by the owner on 2026-09-15.** Recommendations and rename plans below describe the earlier exploration; the rename is now complete.
 
 ## Revised brief
 
