@@ -19,3 +19,7 @@
 ## Experiment log
 
 No interviews, prototypes, or benchmarks have been completed. For each future experiment record: hypothesis, setup, evidence, result, decision, and next step.
+
+## Naming revision — 2026-09-14
+
+The owner rejected the descriptive working name and requested a brand name. The old provisional naming choice is superseded; its repository slug remains in place until a replacement is selected. See [naming exploration](06-naming-exploration.md) for candidates and screening notes.
